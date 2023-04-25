@@ -1,1 +1,101 @@
 /* Write your CSS here! */
+body {
+    background-color: lightgray;
+    font-size: 11pt;
+    
+    color: #233;
+    height: 100vh;
+    /* width: 100vh; */
+    margin: 8px;
+    display: block;
+    padding: 0px;
+    
+    overflow-x: hidden;
+    
+
+}
+
+
+header {
+    background-color: #233;
+    height: auto;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: Verdana;
+    
+}
+
+
+main {
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+img {
+    
+    max-width: 50%;
+    border-radius: 25%;
+    
+    
+
+    
+
+    
+
+}
+
+figcaption {
+    text-align: center;
+    font-size: 12pt;
+    font-style: italic;
+}
+
+p {
+    font-family: 'Verdana';
+    margin: 25px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+#mainHeading {
+    color: red;
+
+}
+
+
+
+
+
+.funParagraph {
+    margin: 20px;
+    color: green;
+    font-size: 10pt;
+    
+}
+
+
+.headers {
+    text-align: center;
+    font-family: Verdana;
+    height: 30px;
+    color: black;
+    font-size: 15pt;
+    margin: auto;
+    padding: 15px;
+}
